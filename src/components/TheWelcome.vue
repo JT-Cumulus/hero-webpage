@@ -14,5 +14,6 @@ import SupportIcon from "./icons/IconSupport.vue";
     </template>
 
     <img src="../assets/Lycan_Large.png" width="700" height="400" />
+    <img class="genius" src="../assets/cropped.jpg" />
   </WelcomeItem>
 </template>
