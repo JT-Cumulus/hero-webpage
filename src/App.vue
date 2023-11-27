@@ -6,7 +6,7 @@ import HelloWorld from "./components/HelloWorld.vue";
 <template>
   <header>
     <img
-      alt="Vue logo"
+      alt="Thinking Emoji"
       class="logo"
       src="@/assets/good.jpg"
       width="125"
