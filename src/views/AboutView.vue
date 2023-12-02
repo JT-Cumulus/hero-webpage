@@ -1,10 +1,6 @@
 <template>
   <div class="about">
     <h1>This is an about page</h1>
-
-    <img
-      :src="https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Centaur_Warrunner_icon.png/revision/latest"
-    />
   </div>
 </template>
 
